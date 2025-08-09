@@ -22,5 +22,5 @@ O projeto estará disponível para acesso local após rodar o comando acima.
 Para compilar e minificar o projeto para produção, utilize:
 
 ```sh
-npm run
+npm run build
 ```
