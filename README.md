@@ -1,29 +1,26 @@
 # cadastro-itens
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto desenvolvido com Vue 3 e Vite.
 
-## Recommended IDE Setup
+## Como rodar o projeto
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+1. Instale as dependências:
 
-## Customize configuration
+   ```sh
+   npm install
+   ```
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+2. Inicie o servidor de desenvolvimento:
+   ```sh
+   npm run dev
+   ```
 
-## Project Setup
+O projeto estará disponível para acesso local após rodar o comando acima.
 
-```sh
-npm install
-```
+## Gerar build para produção
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
+Para compilar e minificar o projeto para produção, utilize:
 
 ```sh
-npm run build
+npm run
 ```
